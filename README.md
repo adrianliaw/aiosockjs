@@ -1,6 +1,6 @@
 # aiosockjs
 
-SockJS client/server for asyncio
+SockJS server for asyncio
 
 ## Why this package
 - I need it for [meteorish.py](https://github.com/adrianliaw/meteorish.py).
